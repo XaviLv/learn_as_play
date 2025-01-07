@@ -3,7 +3,9 @@ title: Introduction
 type: docs
 ---
 
-# Example of RTL page
+# Example of Japanese Page
+
+初めまして
 
 {{% columns %}}
 ## Astris ipse furtiva

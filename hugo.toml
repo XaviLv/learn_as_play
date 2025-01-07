@@ -32,9 +32,8 @@ enableGitInfo = true
   weight = 2
 
 [languages.he]
-  languageName = 'Hebrew'
-  contentDir = 'content.he'
-  languageDirection = 'rtl'
+  languageName = 'Japanese'
+  contentDir = 'content.jp'
   weight = 3
 
 [menu]
@@ -117,4 +116,3 @@ enableGitInfo = true
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
   BookTranslatedOnly = false
-theme = 'hugo-book'
