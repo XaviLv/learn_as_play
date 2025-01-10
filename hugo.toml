@@ -21,37 +21,32 @@ enableGitInfo = true
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
 [languages]
+[languages.jp]
+  languageName = '日本語'
+  contentDir = 'content.jp'
+  weight = 1
+
 [languages.en]
   languageName = 'English'
   contentDir = 'content.en'
-  weight = 1
-
-[languages.zh]
-  languageName = 'Chinese'
-  contentDir = 'content.zh'
   weight = 2
 
-[languages.he]
-  languageName = 'Japanese'
-  contentDir = 'content.jp'
+[languages.zh]
+  languageName = '中文'
+  contentDir = 'content.zh'
   weight = 3
 
 [menu]
 # [[menu.before]]
-[[menu.after]]
-  name = "Github"
-  url = "https://github.com/alex-shpak/hugo-book"
-  weight = 10
-
-[[menu.after]]
-  name = "Hugo Themes"
-  url = "https://themes.gohugo.io/themes/hugo-book/"
-  weight = 20
+# [[menu.after]]
+#   name = "Github"
+#   url = "https://github.com/alex-shpak/hugo-book"
+#   weight = 10
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
-  BookTheme = 'light'
+  BookTheme = 'auto' # light
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
@@ -64,7 +59,7 @@ enableGitInfo = true
 
   # (Optional, default none) Set the path to a logo for the book.
   # If the logo is /static/logo.png then the path would be logo.png
-  # BookLogo = 'logo.png'
+  BookLogo = 'logo.png'
 
   # (Optional, default docs) Specify root page to render child pages as menu.
   # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
@@ -73,7 +68,7 @@ enableGitInfo = true
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/alex-shpak/hugo-book'
+  # BookRepo = 'https://github.com/alex-shpak/hugo-book'
 
   # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
   # commit hash for 'doc' page type.
@@ -85,7 +80,7 @@ enableGitInfo = true
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  BookEditPath = 'edit/main/exampleSite'
+  # BookEditPath = 'edit/main/exampleSite'
 
   # Configure the date format used on the pages
   # - In git information
