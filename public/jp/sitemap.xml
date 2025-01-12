@@ -2,74 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/jp/categories/</loc>
+    <loc>https://example.com/jp/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://example.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/categories/"
+                href="https://example.com/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/jp/categories/"
+                href="https://example.com/jp/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/jp/docs/</loc>
+    <loc>https://example.com/jp/docs/</loc>
+    <lastmod>2025-01-10T23:03:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/docs/"
+                href="https://example.com/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/jp/docs/"
+                href="https://example.com/jp/docs/"
                 />
   </url><url>
-    <loc>http://localhost:1313/jp/</loc>
-    <lastmod>2025-01-07T13:34:07+08:00</lastmod>
+    <loc>https://example.com/jp/</loc>
+    <lastmod>2025-01-10T23:03:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://example.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/"
+                href="https://example.com/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/jp/"
+                href="https://example.com/jp/"
                 />
   </url><url>
-    <loc>http://localhost:1313/jp/tags/</loc>
+    <loc>https://example.com/jp/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://example.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/tags/"
+                href="https://example.com/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/jp/tags/"
+                href="https://example.com/jp/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/jp/docs/grammar/transform_v_a/</loc>
+    <loc>https://example.com/jp/docs/words/</loc>
+    <lastmod>2025-01-10T23:03:58+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jp/docs/words/</loc>
+    <loc>https://example.com/jp/docs/grammar/transform_v_a/</loc>
+    <lastmod>2025-01-10T23:03:58+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jp/docs/grammar/</loc>
+    <loc>https://example.com/jp/docs/grammar/</loc>
+    <lastmod>2025-01-10T23:03:58+08:00</lastmod>
   </url>
 </urlset>
