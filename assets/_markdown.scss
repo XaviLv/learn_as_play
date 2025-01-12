@@ -121,7 +121,7 @@
     th {
       font-size: 0.9em;
       padding: $padding-8 $padding-16;
-      border-bottom: 1px solid #000000;
+      border-bottom: 1px solid var(--body-font-color);
     }
 
     tr td {
