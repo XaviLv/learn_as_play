@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 語</title>
-    <link>http://localhost:1313/jp/categories/</link>
+    <link>https://example.com/jp/categories/</link>
     <description>Recent content in Categories on 語</description>
     <generator>Hugo</generator>
     <language>jp</language>
-    <atom:link href="http://localhost:1313/jp/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/jp/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>搭建博客</title>
-      <link>http://localhost:1313/jp/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+      <link>https://example.com/jp/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jp/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://example.com/jp/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
       <description></description>
     </item>
   </channel>
